@@ -1,0 +1,6 @@
+Consigna:
+
+Hacer una pagina web, con codigo HTML que muestre recetas de cocina
+La receta de cocina, puede tener: titulo, descripción lista de ingredientes, pasos para hacer la receta, 
+
+Usando todo lo aprendido hacer una app o web con pagina principal y links a un par de recetas...
